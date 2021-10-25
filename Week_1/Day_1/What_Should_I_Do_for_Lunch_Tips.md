@@ -12,3 +12,5 @@ To help you figure out how to use `hungry` and `availableTime` inside your funct
   console.log("availableTime is", availableTime);
 }
 ```
+
+## 4 more on md: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
